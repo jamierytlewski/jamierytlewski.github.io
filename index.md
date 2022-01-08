@@ -1,7 +1,5 @@
 # Jamie Rytlewski
 ## Application Developer
-## 4361 Cherry Hill Drive, Okemos, 48864
-## 989-326-0171
 ## jamie.rytlewski@gmail.com
 
 ### About Me
